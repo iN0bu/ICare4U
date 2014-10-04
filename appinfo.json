@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "julien@wepitch.co",
+    "longName": "I care 4 u",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "I care 4 u",
+    "uuid": "5ed10362-a625-41e6-b35c-e6b10feb71e6",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
